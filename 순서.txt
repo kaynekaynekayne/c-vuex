@@ -11,8 +11,5 @@ https://ssjeong.tistory.com/entry/VUE-vuex-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%A
 https://goddino.tistory.com/116
 
 
-* electron
-
-vue로 만든 웹을 desktop app으로 사용하기 -> electron
-electron builder는 해당 웹을 window, mac, linux 등에서
-app으로 사용할 수 있도록 packaging 하게 도와줌
+* 간단한 vuex 증감 문제 출처
+https://webruden.tistory.com/340
