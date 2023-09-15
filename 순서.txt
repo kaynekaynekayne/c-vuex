@@ -1,0 +1,9 @@
+https://ssjeong.tistory.com/entry/VUE-vuex-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-state-store
+
+1. vue create 프로젝트명 (vue/cli 설치 됐다는 전제)
+2. cd 프로젝트명
+3. npm i vuex@3.4.0 --save
+4. src/store/store.js 생성
+5. main.js에 store 연결
+
+6. npm i es6-prpomise?
